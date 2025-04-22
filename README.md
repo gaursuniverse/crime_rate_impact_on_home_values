@@ -2,7 +2,7 @@
 
 This project analyzes the relationship between **crime rates** and **median home values** using linear regression. The analysis quantifies exactly how much housing prices change with incremental changes in neighborhood crime rates.
 
-![Housing Price Analysis](https://zenodo.org/records/15265533)
+![Housing Price Analysis](https://sandbox.zenodo.org/records/200488/files/house_crime.jpg?download=1)
 
 ## 🔍 Key Question Addressed
 
