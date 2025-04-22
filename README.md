@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## 📊 Dataset
 
-![Houseprice Dataset](https://sandbox.zenodo.org/records/200480/files/houseprice.csv?download=1) contains two key variables:
+The analysis uses the `data/houseprice.csv` dataset containing two key variables:
 - `crime rate`: Per capita crime rate by town
 - `Median Home Value`: Median value of owner-occupied homes in $1000s
 
