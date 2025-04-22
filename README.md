@@ -22,7 +22,7 @@ This project analyzes the relationship between **crime rates** and **median home
 ## 📁 Project Structure
 
 ```
-housing-price-analysis/
+crime_rate_impact_on_home_values/
 ├── data/
 │   └── houseprice.csv           # Raw housing price and crime rate data
 ├── notebooks/
